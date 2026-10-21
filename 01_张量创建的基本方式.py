@@ -24,7 +24,7 @@
     torch.IntTensor、torch.FloatTensor、torch.DoubleTensor 创建指定类型的张量
 
 细节：
-    Tensor可以基于形状直接创建张量
+    Tensor可以基于形状直接创建张量。
 """
 
 # 导包
