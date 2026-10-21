@@ -6,7 +6,7 @@
     torch,arange() 和 totch.linspace()创建线性张量
     torch.random.initial_seed() 和 torch.random.manual_seed()随机种子设置
     torch.rand/randn()创建随机浮点类型张量
-    torch.randint(low,high,size=())创建随机整数类型张量
+    torch.randint(low,high,size=())创建随机整数类型张量。
 
 需要掌握的函数：
     arange(),linspace(),manual_seed(),randint()
